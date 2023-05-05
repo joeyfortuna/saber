@@ -14,8 +14,8 @@ License details
 Creative Commons 0: http://creativecommons.org/publicdomain/zero/1.0/
 
 
-Sounds in this pack
--------------------
+The following sounds are attributable to joe93barlow
+-----------------------------------------------------------
 
   * 78685__joe93barlow__swing7.wav
     * url: https://freesound.org/s/78685/
@@ -75,4 +75,4 @@ Sounds in this pack
     * url: https://freesound.org/s/78667/
     * license: Creative Commons 0
 
-
+All other sounds were created by user joeyfortuna
